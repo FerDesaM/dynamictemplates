@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684287204 source:c:\users\user\documents\dynamictemplates\main.cpp
+	<iostream>
+	<string>
+	"dynamictemplates.h"
+
+1684285232 c:\users\user\documents\dynamictemplates\dynamictemplates.h
+	<iostream>
+
